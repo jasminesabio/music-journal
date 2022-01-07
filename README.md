@@ -1,3 +1,9 @@
+# Contact Card
+
+Scrimba's React Course - Solo Project 1: built a static webpage with React
+
+<p align="center"><img src="preview.png" height="600" /></p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
