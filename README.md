@@ -1,4 +1,4 @@
-# Contact Card
+# Music Journal
 
 Scrimba's React Course - Solo Project 1: built a static webpage with React
 
